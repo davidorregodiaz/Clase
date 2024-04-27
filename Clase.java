@@ -9,5 +9,6 @@ public class Clase{
         System.out.println("Digite un valor: ");
         int valor = entrada.nextInt();
         System.out.println(valor);
+        System.out.println("Seguimos con el repo inventando");
     }
 }
